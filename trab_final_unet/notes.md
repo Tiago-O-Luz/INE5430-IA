@@ -28,6 +28,16 @@ Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional netwo
 
 https://arxiv.org/abs/1505.04597
 
+https://arxiv.org/abs/1912.05074
+
+https://arxiv.org/abs/1804.03999
+
+https://arxiv.org/abs/1606.00915
+
+
+
+
+
 Topicos
 
 - Introducao
